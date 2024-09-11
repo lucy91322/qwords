@@ -1,0 +1,9 @@
+com/example/qwords/repository/WordList.class
+com/example/qwords/controller/GlobalExceptionHandler.class
+com/example/qwords/controller/GameController.class
+com/example/qwords/service/WordSelectionService.class
+com/example/qwords/QWordsApplication.class
+com/example/qwords/model/Word.class
+com/example/qwords/controller/HomeController.class
+com/example/qwords/utils/Math.class
+com/example/qwords/model/GameStatus.class
